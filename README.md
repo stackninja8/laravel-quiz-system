@@ -1,9 +1,6 @@
 # Quiz System API built with Laravel
 [![License: MIT](https://img.shields.io/badge/License-MIT-lime.svg)](https://opensource.org/licenses/MIT)
-![example workflow](https://github.com/emtiazzahid/laravel-quiz-system/actions/workflows/laravel.yml/badge.svg)
-
-
-## Demo: [APP](https://squiz-app.netlify.app/)
+![example workflow](https://github.com/stackninja8/laravel-quiz-system/actions/workflows/laravel.yml/badge.svg)
 
 [![Api Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1269242-ade4235a-9b13-42ad-bd2f-910cacd801ba?action=collection%2Ffork&collection-url=entityId%3D1269242-ade4235a-9b13-42ad-bd2f-910cacd801ba%26entityType%3Dcollection%26workspaceId%3Df794fb65-ef0e-4088-b879-87f113b728e1)
 
@@ -11,7 +8,7 @@
 # Installation
 1. Clone this repo
 ```
-git clone https://github.com/emtiazzahid/laravel-quiz-system.git
+git clone https://github.com/stackninja8/laravel-quiz-system.git
 ```
 
 2. Install composer packages
@@ -48,7 +45,7 @@ php artisan migrate --seed
 .\vendor\bin\phpunit
 ```
 
-### For Frontend Repo Visit: [quiz app](https://github.com/emtiazzahid/quiz-app)
+### For Frontend Repo Visit: [quiz app](https://github.com/stackninja8/quiz-app)
 
 ## Screenshot
 ![QuizApp Demo](https://user-images.githubusercontent.com/10188029/133921722-532ff8b1-0abf-443a-af66-92a93655fc35.gif)
